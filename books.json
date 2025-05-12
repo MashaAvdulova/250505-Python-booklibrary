@@ -1,5 +1,12 @@
 {
   "library": {
-    "books": {}
+    "books": {
+      "c690edeef4": {
+        "author": "PPPPPP",
+        "title": "HHHHH",
+        "year": "1928",
+        "status": "В наличии"
+      }
+    }
   }
 }
